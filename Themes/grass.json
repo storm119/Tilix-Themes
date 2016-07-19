@@ -1,0 +1,25 @@
+{
+    "name": "Grass",
+    "comment": "Ported for Terminix Colour Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#fff0a5",
+    "background-color": "#13773d",
+    "palette": [
+        "#000000",
+		"#bb0000",
+		"#00bb00",
+		"#e7b000",
+		"#0000a3",
+		"#950062",
+		"#00bbbb",
+		"#bbbbbb",
+		"#555555",
+		"#bb0000",
+		"#00bb00",
+		"#e7b000",
+		"#0000bb",
+		"#ff55ff",
+		"#55ffff",
+		"#ffffff"
+    ]
+}

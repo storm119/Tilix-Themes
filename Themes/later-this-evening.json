@@ -1,0 +1,25 @@
+{
+    "name": "Later This Evening",
+    "comment": "Ported for Terminix Colour Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#959595",
+    "background-color": "#222222",
+    "palette": [
+        "#2b2b2b",
+		"#d45a60",
+		"#afba67",
+		"#e5d289",
+		"#a0bad6",
+		"#c092d6",
+		"#91bfb7",
+		"#3c3d3d",
+		"#454747",
+		"#d3232f",
+		"#aabb39",
+		"#e5be39",
+		"#6699d6",
+		"#ab53d6",
+		"#5fc0ae",
+		"#c1c2c2"
+    ]
+}

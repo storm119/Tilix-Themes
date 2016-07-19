@@ -1,0 +1,25 @@
+{
+    "name": "Kibble",
+    "comment": "Ported for Terminix Colour Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#f7f7f7",
+    "background-color": "#0e100a",
+    "palette": [
+        "#4d4d4d",
+		"#c70031",
+		"#29cf13",
+		"#d8e30e",
+		"#3449d1",
+		"#8400ff",
+		"#0798ab",
+		"#e2d1e3",
+		"#5a5a5a",
+		"#f01578",
+		"#6ce05c",
+		"#f3f79e",
+		"#97a4f7",
+		"#c495f0",
+		"#68f2e0",
+		"#ffffff"
+    ]
+}

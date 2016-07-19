@@ -1,0 +1,25 @@
+{
+    "name": "Belafonte Day",
+    "comment": "Ported for Terminix Colour Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#45373c",
+    "background-color": "#d5ccba",
+    "palette": [
+        "#20111b",
+        "#be100e",
+		"#858162",
+		"#eaa549",		
+		"#426a79",
+		"#97522c",
+		"#989a9c",
+		"#968c83",
+		"#5e5252",	
+		"#be100e",
+		"#858162",
+		"#eaa549",
+		"#426a79",
+		"#97522c",
+		"#989a9c",
+		"#d5ccba"
+    ]
+}

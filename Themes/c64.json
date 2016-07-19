@@ -1,0 +1,25 @@
+{
+    "name": "C64",
+    "comment": "Ported for Terminix Colour Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#7869c4",
+    "background-color": "#40318d",
+    "palette": [
+        "#090300",
+		"#883932",
+		"#55a049",
+		"#bfce72",
+		"#40318d",
+		"#8b3f96".
+		"#67b6bd",
+		"#ffffff",
+		"#000000",
+		"#883932",
+		"#55a049",
+		"#bfce72",
+		"#40318d",
+		"#8b3f96",
+		"#67b6bd",
+		"#f7f7f7"
+    ]
+}
