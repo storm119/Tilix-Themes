@@ -1,0 +1,25 @@
+{
+    "name": "Tomorrow",
+    "comment": "Ported for Terminix Colour Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#4d4d4c",
+    "background-color": "#ffffff",
+    "palette": [
+        "#000000",
+		"#c82829",
+		"#718c00",
+		"#eab700",
+		"#4271ae",
+		"#8959a8",
+		"#3e999f",
+		"#ffffff",
+		"#000000",
+		"#c82829",
+		"#718c00",
+		"#eab700",
+		"#4271ae",
+		"#8959a8",
+		"#3e999f",
+		"#ffffff"
+    ]
+}

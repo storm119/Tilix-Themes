@@ -1,0 +1,26 @@
+{
+    "name": "Terminix Dark",
+    "comment": "Created by storm119 for Terminix Colour Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#868A8C",
+    "background-color": "#091116",
+    "palette": [
+        "#282a2e",
+  	    "#a54242",
+        "#a1b56c",
+        "#de935f",
+        "#225555",
+        "#85678f",
+        "#5e8d87",
+        "#777777",
+        "#373b41",
+        "#c63535",
+        "#608360",
+        "#fa805a",
+        "#449da1",
+        "#ba8baf",
+        "#86c1b9",
+        "#c5c8c6"
+    ]
+}
+

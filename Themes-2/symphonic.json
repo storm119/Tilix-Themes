@@ -1,0 +1,25 @@
+{
+    "name": "Symphonic",
+    "comment": "Ported for Terminix Colour Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#ffffff",
+    "background-color": "#000000",
+    "palette": [
+        "#000000",
+		"#dc322f",
+		"#56db3a",
+		"#ff8400",
+		"#0084d4",
+		"#b729d9",
+		"#ccccff",
+		"#ffffff",
+		"#1b1d21",
+		"#dc322f",
+		"#56db3a",
+		"#ff8400",
+		"#0084d4",
+		"#b729d9",
+		"#ccccff",
+		"#ffffff"
+    ]
+}
