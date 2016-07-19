@@ -1,8 +1,9 @@
 Everyone have a different taste, not only we want app that can run and meet our requirement but we also love the eye candy thingy....if you using [Terminix](https://github.com/gnunn1/terminix) and looking for other theme which are not shipped by default, consider your're lucky because this repo have a huge collection of themes gather from the net and ported to use with Terminix + 1 extra theme that i made especially for Terminix Terminal....[Terminix Dark]
 
-Note: Related to this discussion [#380](https://github.com/gnunn1/terminix/issues/380)
 
-Note2: I'm using Terminix + [Linux Mint 18 Sarah (Cinnamon)](https://www.linuxmint.com/) + [Fish](https://github.com/fish-shell/fish-shell) + [NeoVim](https://github.com/neovim/neovim) + other plugins.
+* Note: Related to this discussion [#380](https://github.com/gnunn1/terminix/issues/380)
+* Note2: I'm using Terminix + [Linux Mint 18 Sarah (Cinnamon)](https://www.linuxmint.com/) + [Fish](https://github.com/fish-shell/fish-shell) + [NeoVim](https://github.com/neovim/neovim) + other plugins.
+
 
 
 How to use:
@@ -11,8 +12,10 @@ How to use:
 * Apply via Terminix (Profile/Edit Profile/Color)
 
 
+
 Uninstall:
-Just delete the theme *.json...you're good to go!
+* Just delete the theme *.json...you're good to go!
+
 
 
 Credits:
