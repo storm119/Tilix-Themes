@@ -8,7 +8,7 @@ Everyone have a different taste, not only we want app that can run and meet our 
 
 How to use:
 * You need to install [Terminix](https://github.com/gnunn1/terminix) to use my theme and the ported themes. Other terminal wont work...
-* Pick the one you like and Copy the theme *.json to /usr/share/terminix/schemes/ (give the right permission)
+* Pick the one you like and Copy the theme *.json to ~/.config/terminix/schemes/
 * Apply via Terminix (Profile/Edit Profile/Color)
 
 
