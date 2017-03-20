@@ -1,4 +1,4 @@
-Everyone have a different taste, not only we want app that can run and meet our requirement but we also love the eye candy thingy....if you using [Tilix](https://github.com/gnunn1/tilix) and looking for other theme which are not shipped by default, consider your're lucky because this repo have a huge collection of themes gather from the net and ported to use with Terminix + 1 extra theme that i made especially for Tilix Terminal....[Terminix Dark](https://github.com/storm119/Tilix-Themes/blob/master/Themes/terminix-dark.json)
+Everyone have a different taste, not only we want app that can run and meet our requirement but we also love the eye candy thingy....if you using [Tilix](https://github.com/gnunn1/tilix) (Terminix) and looking for other theme which are not shipped by default, consider your're lucky because this repo have a huge collection of themes gather from the net and ported to use with Terminix + 1 extra theme that i made especially for Tilix Terminal....[Terminix Dark](https://github.com/storm119/Tilix-Themes/blob/master/Themes/terminix-dark.json)
 
 
 * Note: Related to this discussion [#380](https://github.com/gnunn1/terminix/issues/380)
