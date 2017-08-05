@@ -8,7 +8,7 @@ Everyone have a different taste, not only we want app that can run and meet our 
 
 How to use:
 * You need to install [Tilix](https://github.com/gnunn1/tilix) to use my theme and the ported themes. Other terminal wont work...
-* Pick the one you like and Copy the theme *.json to ~/.config/tilix/schemes/
+* Pick the one you like and Copy the theme *.json to ~/.config/tilix/schemes/ . You can also [preview available themes](Themes.md) before installing.
 * Apply via Tilix (Profile/Edit Profile/Color)
 
 
