@@ -9,10 +9,15 @@ Everyone have a different taste, not only we want app that can run and meet our 
 
 ### How to use:
 * You need to install from [Tilix](https://github.com/gnunn1/tilix) or [Tilix Website](https://gnunn1.github.io/tilix-web/) to use my theme and the ported themes or from one that provided by the other contributors. Other terminal wont work...
-* Pick the one you like and Copy the theme *.json to ~/.config/tilix/schemes/ .
+* Pick the one you like and Copy the theme *.json to...
+```
+~/.config/tilix/schemes/
+```
 * You can also [preview available themes](Themes.md) before installing...(huge thanks to [EliverLara](https://github.com/EliverLara) for the screenies) 
-* Apply via Tilix (Profile/Edit Profile/Color)
-
+* And finally apply via Tilix
+```
+Preferences/Default/Color/Color scheme
+```
 
 
 ### Uninstall:
