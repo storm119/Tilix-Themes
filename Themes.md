@@ -1,70 +1,74 @@
 # Themes
 
-**3024 day**![3024-day](images/3024-day.png) | **3024 night**![3024-night](images/3024-night.png) 
+
+To download the theme just copy and paste the command below the screenshot in your CLI.
+
+
+**3024 day**![3024-day.json](images/3024-day.png) ` wget  -qO $HOME"/.config/tilix/schemes/3024-day.json" https://git.io/v7QVI ` | **3024 night**![3024-night.json](images/3024-night.png) ` wget  -qO $HOME"/.config/tilix/schemes/3024-night.json" https://git.io/v7QVY ` 
 :---------------------------------------------:|:----------------------------------------------:
-**Adventuretime**![adventuretime](images/adventuretime.png) | **Afterglow**![afterglow](images/afterglow.png) 
-**Alien blood**![alien-blood](images/alien-blood.png) | **Argonaut**![argonaut](images/argonaut.png) 
-**Arthur**![arthur](images/arthur.png) | **Atom**![atom](images/atom.png) 
-**Belafonte day**![belafonte-day](images/belafonte-day.png) | **Belafonte night**![belafonte-night](images/belafonte-night.png) 
-**Birds of paradise**![birds-of-paradise](images/birds-of-paradise.png) | **Blazer**![blazer](images/blazer.png) 
-**Borland**![borland](images/borland.png) | **Broadcast**![broadcast](images/broadcast.png) 
-**Brogrammer**![brogrammer](images/brogrammer.png) | **C64**![c64](images/c64.png) 
-**Chalk**![chalk](images/chalk.png) | **Chalkboard**![chalkboard](images/chalkboard.png) 
-**Ciapre**![ciapre](images/ciapre.png) | **Clrs**![clrs](images/clrs.png) 
-**Cobalt neon**![cobalt-neon](images/cobalt-neon.png) | **Cobalt2**![cobalt2](images/cobalt2.png) 
-**Crayon pony fish**![crayon-pony-fish](images/crayon-pony-fish.png) | **Dark pastel**![dark-pastel](images/dark-pastel.png) 
-**Darkside**![darkside](images/darkside.png) | **Desert**![desert](images/desert.png) 
-**Dimmed monokai**![dimmed-monokai](images/dimmed-monokai.png) | **Dracula**![dracula](images/dracula.png) 
-**Earthsong**![earthsong](images/earthsong.png) | **Elemental**![elemental](images/elemental.png) 
-**Espresso libre**![espresso-libre](images/espresso-libre.png) | **Espresso**![espresso](images/espresso.png) 
-**Fishtank**![fishtank](images/fishtank.png) | **Flat**![flat](images/flat.png) 
-**Flatland**![flatland](images/flatland.png) | **Frontend delight**![frontend-delight](images/frontend-delight.png) 
-**Frontend fun forrest**![frontend-fun-forrest](images/frontend-fun-forrest.png) | **Frontend galaxy**![frontend-galaxy](images/frontend-galaxy.png) 
-**Github**![github](images/github.png) | **Grape**![grape](images/grape.png) 
-**Grass**![grass](images/grass.png) | **Gruvbox**![gruvbox](images/gruvbox.png) 
-**Hardcore**![hardcore](images/hardcore.png) | **Harper**![harper](images/harper.png) 
-**Highway**![highway](images/highway.png) | **Hipster green**![hipster-green](images/hipster-green.png) 
-**Homebrew**![homebrew](images/homebrew.png) | **Hurtado**![hurtado](images/hurtado.png) 
-**Hybrid**![hybrid](images/hybrid.png) | **Ic green ppl**![ic-green-ppl](images/ic-green-ppl.png) 
-**Ic orange ppl**![ic-orange-ppl](images/ic-orange-ppl.png) | **Idle toes**![idle-toes](images/idle-toes.png) 
-**Ir black**![ir-black](images/ir-black.png) | **Jackie brown**![jackie-brown](images/jackie-brown.png) 
-**Japanesque**![japanesque](images/japanesque.png) | **Jellybeans**![jellybeans](images/jellybeans.png) 
-**Kibble**![kibble](images/kibble.png) | **Later this evening**![later-this-evening](images/later-this-evening.png) 
-**Lavandula**![lavandula](images/lavandula.png) | **Liquid carbon transparent**![liquid-carbon-transparent](images/liquid-carbon-transparent.png) 
-**Liquid carbon**![liquid-carbon](images/liquid-carbon.png) | **Man page**![man-page](images/man-page.png) 
-**Mathias**![mathias](images/mathias.png) | **Medallion**![medallion](images/medallion.png) 
-**Misterioso**![misterioso](images/misterioso.png) | **Molokai**![molokai](images/molokai.png) 
-**Monalisa**![monalisa](images/monalisa.png) | **Monokai soda**![monokai-soda](images/monokai-soda.png) 
-**Monokai**![monokai](images/monokai.png) | **N0tch2k**![n0tch2k](images/n0tch2k.png) 
-**Neopolitan**![neopolitan](images/neopolitan.png) | **Neutron**![neutron](images/neutron.png) 
-**Nightlion v1**![nightlion-v1](images/nightlion-v1.png) | **Nightlion v2**![nightlion-v2](images/nightlion-v2.png) 
-**Novel**![novel](images/novel.png) | **Obsidian**![obsidian](images/obsidian.png) 
-**Ocean**![ocean](images/ocean.png) | **Oceanic next**![oceanic-next](images/oceanic-next.png) 
-**Ollie**![ollie](images/ollie.png) | **One dark**![one-dark](images/one-dark.png) 
-**Paraiso dark**![paraiso-dark](images/paraiso-dark.png) | **Paul millr**![paul-millr](images/paul-millr.png) 
-**Pencil dark**![pencil-dark](images/pencil-dark.png) | **Pencil light**![pencil-light](images/pencil-light.png) 
-**Pnevma**![pnevma](images/pnevma.png) | **Pro**![pro](images/pro.png) 
-**Red alert**![red-alert](images/red-alert.png) | **Red sands**![red-sands](images/red-sands.png) 
-**Rippedcasts**![rippedcasts](images/rippedcasts.png) | **Royal**![royal](images/royal.png) 
-**Sea shells**![sea-shells](images/sea-shells.png) | **Seafoam pastel**![seafoam-pastel](images/seafoam-pastel.png) 
-**Seti**![seti](images/seti.png) | **Shaman**![shaman](images/shaman.png) 
-**Slate**![slate](images/slate.png) | **Smyck**![smyck](images/smyck.png) 
-**Soft server**![soft-server](images/soft-server.png) | **Solarized darcula**![solarized-darcula](images/solarized-darcula.png) 
-**Solarized dark higher contrast**![solarized-dark-higher-contrast](images/solarized-dark-higher-contrast.png) | **Spacedust**![spacedust](images/spacedust.png) 
-**Spacegray eighties dull**![spacegray-eighties-dull](images/spacegray-eighties-dull.png) | **Spacegray eighties**![spacegray-eighties](images/spacegray-eighties.png) 
-**Spacegray**![spacegray](images/spacegray.png) | **Spring**![spring](images/spring.png) 
-**Square**![square](images/square.png) | **Sundried**![sundried](images/sundried.png) 
-**Symphonic**![symphonic](images/symphonic.png) | **Teerb**![teerb](images/teerb.png) 
-**Terminal basic**![terminal-basic](images/terminal-basic.png) | **Terminix dark**![terminix-dark](images/terminix-dark.png) 
-**Terminix dark**![terminix-dark](images/terminix-dark.png) | **Thayer bright**![thayer-bright](images/thayer-bright.png) 
-**Tommorow night**![tommorow-night](images/tommorow-night.png) | **Tomorrow night blue**![tomorrow-night-blue](images/tomorrow-night-blue.png) 
-**Tomorrow night bright**![tomorrow-night-bright](images/tomorrow-night-bright.png) | **Tomorrow night eighties**![tomorrow-night-eighties](images/tomorrow-night-eighties.png) 
-**Tomorrow**![tomorrow](images/tomorrow.png) | **Toy chest**![toy-chest](images/toy-chest.png) 
-**Treehouse**![treehouse](images/treehouse.png) | **Twilight**![twilight](images/twilight.png) 
-**Urple**![urple](images/urple.png) | **Vaughn**![vaughn](images/vaughn.png) 
-**Vibrant ink**![vibrant-ink](images/vibrant-ink.png) | **Warm neon**![warm-neon](images/warm-neon.png) 
-**Wez**![wez](images/wez.png) | **Wild cherry**![wild-cherry](images/wild-cherry.png) 
-**Wombat**![wombat](images/wombat.png) | **Wryan**![wryan](images/wryan.png) 
-**Zenburn**![zenburn](images/zenburn.png) | 
+**Adventuretime**![adventuretime.json](images/adventuretime.png) ` wget  -qO $HOME"/.config/tilix/schemes/adventuretime.json" https://git.io/v7QVg ` | **Afterglow**![afterglow.json](images/afterglow.png) ` wget  -qO $HOME"/.config/tilix/schemes/afterglow.json" https://git.io/v7QVD ` 
+**Alien blood**![alien-blood.json](images/alien-blood.png) ` wget  -qO $HOME"/.config/tilix/schemes/alien-blood.json" https://git.io/v7QVk ` | **Argonaut**![argonaut.json](images/argonaut.png) ` wget  -qO $HOME"/.config/tilix/schemes/argonaut.json" https://git.io/v7QV5 ` 
+**Arthur**![arthur.json](images/arthur.png) ` wget  -qO $HOME"/.config/tilix/schemes/arthur.json" https://git.io/v7QV1 ` | **Atom**![atom.json](images/atom.png) ` wget  -qO $HOME"/.config/tilix/schemes/atom.json" https://git.io/v7Q27 ` 
+**Belafonte day**![belafonte-day.json](images/belafonte-day.png) ` wget  -qO $HOME"/.config/tilix/schemes/belafonte-day.json" https://git.io/v7Q25 ` | **Belafonte night**![belafonte-night.json](images/belafonte-night.png) ` wget  -qO $HOME"/.config/tilix/schemes/belafonte-night.json" https://git.io/v7Q2F ` 
+**Birds of paradise**![birds-of-paradise.json](images/birds-of-paradise.png) ` wget  -qO $HOME"/.config/tilix/schemes/birds-of-paradise.json" https://git.io/v7Q2x ` | **Blazer**![blazer.json](images/blazer.png) ` wget  -qO $HOME"/.config/tilix/schemes/blazer.json" https://git.io/v7Q2N ` 
+**Borland**![borland.json](images/borland.png) ` wget  -qO $HOME"/.config/tilix/schemes/borland.json" https://git.io/v7Q2Q ` | **Broadcast**![broadcast.json](images/broadcast.png) ` wget  -qO $HOME"/.config/tilix/schemes/broadcast.json" https://git.io/v7QaU ` 
+**Brogrammer**![brogrammer.json](images/brogrammer.png) ` wget  -qO $HOME"/.config/tilix/schemes/brogrammer.json" https://git.io/v7Qa3 ` | **C64**![c64.json](images/c64.png) ` wget  -qO $HOME"/.config/tilix/schemes/c64.json" https://git.io/v7Q2p ` 
+**Chalk**![chalk.json](images/chalk.png) ` wget  -qO $HOME"/.config/tilix/schemes/chalk.json" https://git.io/v7Q2A ` | **Chalkboard**![chalkboard.json](images/chalkboard.png) ` wget  -qO $HOME"/.config/tilix/schemes/chalkboard.json" https://git.io/v7Q2h ` 
+**Ciapre**![ciapre.json](images/ciapre.png) ` wget  -qO $HOME"/.config/tilix/schemes/ciapre.json" https://git.io/v7Qae ` | **Clrs**![clrs.json](images/clrs.png) ` wget  -qO $HOME"/.config/tilix/schemes/clrs.json" https://git.io/v7QaI ` 
+**Cobalt neon**![cobalt-neon.json](images/cobalt-neon.png) ` wget  -qO $HOME"/.config/tilix/schemes/cobalt-neon.json" https://git.io/v7Q2d ` | **Cobalt2**![cobalt2.json](images/cobalt2.png) ` wget  -qO $HOME"/.config/tilix/schemes/cobalt2.json" https://git.io/v7Qav ` 
+**Crayon pony fish**![crayon-pony-fish.json](images/crayon-pony-fish.png) ` wget  -qO $HOME"/.config/tilix/schemes/crayon-pony-fish.json" https://git.io/v7Q2b ` | **Dark pastel**![dark-pastel.json](images/dark-pastel.png) ` wget  -qO $HOME"/.config/tilix/schemes/dark-pastel.json" https://git.io/v7Q2j ` 
+**Darkside**![darkside.json](images/darkside.png) ` wget  -qO $HOME"/.config/tilix/schemes/darkside.json" https://git.io/v7QVV ` | **Desert**![desert.json](images/desert.png) ` wget  -qO $HOME"/.config/tilix/schemes/desert.json" https://git.io/v7QVl ` 
+**Dimmed monokai**![dimmed-monokai.json](images/dimmed-monokai.png) ` wget  -qO $HOME"/.config/tilix/schemes/dimmed-monokai.json" https://git.io/v7QaJ ` | **Dracula**![dracula.json](images/dracula.png) ` wget  -qO $HOME"/.config/tilix/schemes/dracula.json" https://git.io/v7QaT ` 
+**Earthsong**![earthsong.json](images/earthsong.png) ` wget  -qO $HOME"/.config/tilix/schemes/earthsong.json" https://git.io/v7Qaf ` | **Elemental**![elemental.json](images/elemental.png) ` wget  -qO $HOME"/.config/tilix/schemes/elemental.json" https://git.io/v7Qak ` 
+**Espresso libre**![espresso-libre.json](images/espresso-libre.png) ` wget  -qO $HOME"/.config/tilix/schemes/espresso-libre.json" https://git.io/v7QaL ` | **Espresso**![espresso.json](images/espresso.png) ` wget  -qO $HOME"/.config/tilix/schemes/espresso.json" https://git.io/v7Qam ` 
+**Fishtank**![fishtank.json](images/fishtank.png) ` wget  -qO $HOME"/.config/tilix/schemes/fishtank.json" https://git.io/v7Qaq ` | **Flat**![flat.json](images/flat.png) ` wget  -qO $HOME"/.config/tilix/schemes/flat.json" https://git.io/v7Qat ` 
+**Flatland**![flatland.json](images/flatland.png) ` wget  -qO $HOME"/.config/tilix/schemes/flatland.json" https://git.io/v7Qan ` | **Frontend delight**![frontend-delight.json](images/frontend-delight.png) ` wget  -qO $HOME"/.config/tilix/schemes/frontend-delight.json" https://git.io/v7Qac ` 
+**Frontend fun forrest**![frontend-fun-forrest.json](images/frontend-fun-forrest.png) ` wget  -qO $HOME"/.config/tilix/schemes/frontend-fun-forrest.json" https://git.io/v7QVt ` | **Frontend galaxy**![frontend-galaxy.json](images/frontend-galaxy.png) ` wget  -qO $HOME"/.config/tilix/schemes/frontend-galaxy.json" https://git.io/v7QVz ` 
+**Github**![github.json](images/github.png) ` wget  -qO $HOME"/.config/tilix/schemes/github.json" https://git.io/v7QaC ` | **Grape**![grape.json](images/grape.png) ` wget  -qO $HOME"/.config/tilix/schemes/grape.json" https://git.io/v7QaO ` 
+**Grass**![grass.json](images/grass.png) ` wget  -qO $HOME"/.config/tilix/schemes/grass.json" https://git.io/v7QaZ ` | **Gruvbox**![gruvbox.json](images/gruvbox.png) ` wget  -qO $HOME"/.config/tilix/schemes/gruvbox.json" https://git.io/v7Qas ` 
+**Hardcore**![hardcore.json](images/hardcore.png) ` wget  -qO $HOME"/.config/tilix/schemes/hardcore.json" https://git.io/v7QaY ` | **Harper**![harper.json](images/harper.png) ` wget  -qO $HOME"/.config/tilix/schemes/harper.json" https://git.io/v7QaG ` 
+**Highway**![highway.json](images/highway.png) ` wget  -qO $HOME"/.config/tilix/schemes/highway.json" https://git.io/v7QV7 ` | **Hipster green**![hipster-green.json](images/hipster-green.png) ` wget  -qO $HOME"/.config/tilix/schemes/hipster-green.json" https://git.io/v7QaW ` 
+**Homebrew**![homebrew.json](images/homebrew.png) ` wget  -qO $HOME"/.config/tilix/schemes/homebrew.json" https://git.io/v7Qa4 ` | **Hurtado**![hurtado.json](images/hurtado.png) ` wget  -qO $HOME"/.config/tilix/schemes/hurtado.json" https://git.io/v7QaB ` 
+**Hybrid**![hybrid.json](images/hybrid.png) ` wget  -qO $HOME"/.config/tilix/schemes/hybrid.json" https://git.io/v7Qal ` | **Ic green ppl**![ic-green-ppl.json](images/ic-green-ppl.png) ` wget  -qO $HOME"/.config/tilix/schemes/ic-green-ppl.json" https://git.io/v7QaR ` 
+**Ic orange ppl**![ic-orange-ppl.json](images/ic-orange-ppl.png) ` wget  -qO $HOME"/.config/tilix/schemes/ic-orange-ppl.json" https://git.io/v7Qa0 ` | **Idle toes**![idle-toes.json](images/idle-toes.png) ` wget  -qO $HOME"/.config/tilix/schemes/idle-toes.json" https://git.io/v7QVw ` 
+**Ir black**![ir-black.json](images/ir-black.png) ` wget  -qO $HOME"/.config/tilix/schemes/ir-black.json" https://git.io/v7Qa8 ` | **Jackie brown**![jackie-brown.json](images/jackie-brown.png) ` wget  -qO $HOME"/.config/tilix/schemes/jackie-brown.json" https://git.io/v7Qau ` 
+**Japanesque**![japanesque.json](images/japanesque.png) ` wget  -qO $HOME"/.config/tilix/schemes/japanesque.json" https://git.io/v7QaE ` | **Jellybeans**![jellybeans.json](images/jellybeans.png) ` wget  -qO $HOME"/.config/tilix/schemes/jellybeans.json" https://git.io/v7Qaz ` 
+**Kibble**![kibble.json](images/kibble.png) ` wget  -qO $HOME"/.config/tilix/schemes/kibble.json" https://git.io/v7Qag ` | **Later this evening**![later-this-evening.json](images/later-this-evening.png) ` wget  -qO $HOME"/.config/tilix/schemes/later-this-evening.json" https://git.io/v7Qa2 ` 
+**Lavandula**![lavandula.json](images/lavandula.png) ` wget  -qO $HOME"/.config/tilix/schemes/lavandula.json" https://git.io/v7QVL ` | **Liquid carbon transparent**![liquid-carbon-transparent.json](images/liquid-carbon-transparent.png) ` wget  -qO $HOME"/.config/tilix/schemes/liquid-carbon-transparent.json" https://git.io/v7QaV ` 
+**Liquid carbon**![liquid-carbon.json](images/liquid-carbon.png) ` wget  -qO $HOME"/.config/tilix/schemes/liquid-carbon.json" https://git.io/v7Qaa ` | **Man page**![man-page.json](images/man-page.png) ` wget  -qO $HOME"/.config/tilix/schemes/man-page.json" https://git.io/v7QVU ` 
+**Mathias**![mathias.json](images/mathias.png) ` wget  -qO $HOME"/.config/tilix/schemes/mathias.json" https://git.io/v7Q0x ` | **Medallion**![medallion.json](images/medallion.png) ` wget  -qO $HOME"/.config/tilix/schemes/medallion.json" https://git.io/v7QaM ` 
+**Misterioso**![misterioso.json](images/misterioso.png) ` wget  -qO $HOME"/.config/tilix/schemes/misterioso.json" https://git.io/v7Qa6 ` | **Molokai**![molokai.json](images/molokai.png) ` wget  -qO $HOME"/.config/tilix/schemes/molokai.json" https://git.io/v7QVE ` 
+**Monalisa**![monalisa.json](images/monalisa.png) ` wget  -qO $HOME"/.config/tilix/schemes/monalisa.json" https://git.io/v7QV2 ` | **Monokai soda**![monokai-soda.json](images/monokai-soda.png) ` wget  -qO $HOME"/.config/tilix/schemes/monokai-soda.json" https://git.io/v7Qao ` 
+**Monokai**![monokai.json](images/monokai.png) ` wget  -qO $HOME"/.config/tilix/schemes/monokai.json" https://git.io/v7Qad ` | **N0tch2k**![n0tch2k.json](images/n0tch2k.png) ` wget  -qO $HOME"/.config/tilix/schemes/n0tch2k.json" https://git.io/v7QaD ` 
+**Neopolitan**![neopolitan.json](images/neopolitan.png) ` wget  -qO $HOME"/.config/tilix/schemes/neopolitan.json" https://git.io/v7QaQ ` | **Neutron**![neutron.json](images/neutron.png) ` wget  -qO $HOME"/.config/tilix/schemes/neutron.json" https://git.io/v7QVv ` 
+**Nightlion v1**![nightlion-v1.json](images/nightlion-v1.png) ` wget  -qO $HOME"/.config/tilix/schemes/nightlion-v1.json" https://git.io/v7Qaj ` | **Nightlion v2**![nightlion-v2.json](images/nightlion-v2.png) ` wget  -qO $HOME"/.config/tilix/schemes/nightlion-v2.json" https://git.io/v7QVa ` 
+**Novel**![novel.json](images/novel.png) ` wget  -qO $HOME"/.config/tilix/schemes/novel.json" https://git.io/v7QVu ` | **Obsidian**![obsidian.json](images/obsidian.png) ` wget  -qO $HOME"/.config/tilix/schemes/obsidian.json" https://git.io/v7QV8 ` 
+**Ocean**![ocean.json](images/ocean.png) ` wget  -qO $HOME"/.config/tilix/schemes/ocean.json" https://git.io/v7QaX ` | **Oceanic next**![oceanic-next.json](images/oceanic-next.png) ` wget  -qO $HOME"/.config/tilix/schemes/oceanic-next.json" https://git.io/v7QaA ` 
+**Ollie**![ollie.json](images/ollie.png) ` wget  -qO $HOME"/.config/tilix/schemes/ollie.json" https://git.io/v7Qap ` | **One dark**![one-dark.json](images/one-dark.png) ` wget  -qO $HOME"/.config/tilix/schemes/one-dark.json" https://git.io/v7Qaw ` 
+**Paraiso dark**![paraiso-dark.json](images/paraiso-dark.png) ` wget  -qO $HOME"/.config/tilix/schemes/paraiso-dark.json" https://git.io/v7Qa1 ` | **Paul millr**![paul-millr.json](images/paul-millr.png) ` wget  -qO $HOME"/.config/tilix/schemes/paul-millr.json" https://git.io/v7QaN ` 
+**Pencil dark**![pencil-dark.json](images/pencil-dark.png) ` wget  -qO $HOME"/.config/tilix/schemes/pencil-dark.json" https://git.io/v7Qab ` | **Pencil light**![pencil-light.json](images/pencil-light.png) ` wget  -qO $HOME"/.config/tilix/schemes/pencil-light.json" https://git.io/v7QVJ ` 
+**Pnevma**![pnevma.json](images/pnevma.png) ` wget  -qO $HOME"/.config/tilix/schemes/pnevma.json" https://git.io/v7QV0 ` | **Pro**![pro.json](images/pro.png) ` wget  -qO $HOME"/.config/tilix/schemes/pro.json" https://git.io/v7QaF ` 
+**Red alert**![red-alert.json](images/red-alert.png) ` wget  -qO $HOME"/.config/tilix/schemes/red-alert.json" https://git.io/v7Qa7 ` | **Red sands**![red-sands.json](images/red-sands.png) ` wget  -qO $HOME"/.config/tilix/schemes/red-sands.json" https://git.io/v7QVf ` 
+**Rippedcasts**![rippedcasts.json](images/rippedcasts.png) ` wget  -qO $HOME"/.config/tilix/schemes/rippedcasts.json" https://git.io/v7QaP ` | **Royal**![royal.json](images/royal.png) ` wget  -qO $HOME"/.config/tilix/schemes/royal.json" https://git.io/v7Qah ` 
+**Sea shells**![sea-shells.json](images/sea-shells.png) ` wget  -qO $HOME"/.config/tilix/schemes/sea-shells.json" https://git.io/v7Qay ` | **Seafoam pastel**![seafoam-pastel.json](images/seafoam-pastel.png) ` wget  -qO $HOME"/.config/tilix/schemes/seafoam-pastel.json" https://git.io/v7QVW ` 
+**Seti**![seti.json](images/seti.png) ` wget  -qO $HOME"/.config/tilix/schemes/seti.json" https://git.io/v7QV4 ` | **Shaman**![shaman.json](images/shaman.png) ` wget  -qO $HOME"/.config/tilix/schemes/shaman.json" https://git.io/v7QaH ` 
+**Slate**![slate.json](images/slate.png) ` wget  -qO $HOME"/.config/tilix/schemes/slate.json" https://git.io/v7Qax ` | **Smyck**![smyck.json](images/smyck.png) ` wget  -qO $HOME"/.config/tilix/schemes/smyck.json" https://git.io/v7QVe ` 
+**Soft server**![soft-server.json](images/soft-server.png) ` wget  -qO $HOME"/.config/tilix/schemes/soft-server.json" https://git.io/v7QaS ` | **Solarized darcula**![solarized-darcula.json](images/solarized-darcula.png) ` wget  -qO $HOME"/.config/tilix/schemes/solarized-darcula.json" https://git.io/v7Qa9 ` 
+**Solarized dark higher contrast**![solarized-dark-higher-contrast.json](images/solarized-dark-higher-contrast.png) ` wget  -qO $HOME"/.config/tilix/schemes/solarized-dark-higher-contrast.json" https://git.io/v7Qa5 ` | **Spacedust**![spacedust.json](images/spacedust.png) ` wget  -qO $HOME"/.config/tilix/schemes/spacedust.json" https://git.io/v7Qai ` 
+**Spacegray eighties dull**![spacegray-eighties-dull.json](images/spacegray-eighties-dull.png) ` wget  -qO $HOME"/.config/tilix/schemes/spacegray-eighties-dull.json" https://git.io/v7Qar ` | **Spacegray eighties**![spacegray-eighties.json](images/spacegray-eighties.png) ` wget  -qO $HOME"/.config/tilix/schemes/spacegray-eighties.json" https://git.io/v7QVB ` 
+**Spacegray**![spacegray.json](images/spacegray.png) ` wget  -qO $HOME"/.config/tilix/schemes/spacegray.json" https://git.io/v7QV3 ` | **Spring**![spring.json](images/spring.png) ` wget  -qO $HOME"/.config/tilix/schemes/spring.json" https://git.io/v7QVn ` 
+**Square**![square.json](images/square.png) ` wget  -qO $HOME"/.config/tilix/schemes/square.json" https://git.io/v7QVm ` | **Sundried**![sundried.json](images/sundried.png) ` wget  -qO $HOME"/.config/tilix/schemes/sundried.json" https://git.io/v7QVO ` 
+**Symphonic**![symphonic.json](images/symphonic.png) ` wget  -qO $HOME"/.config/tilix/schemes/symphonic.json" https://git.io/v7QVT ` | **Teerb**![teerb.json](images/teerb.png) ` wget  -qO $HOME"/.config/tilix/schemes/teerb.json" https://git.io/v7QVs ` 
+**Terminal basic**![terminal-basic.json](images/terminal-basic.png) ` wget  -qO $HOME"/.config/tilix/schemes/terminal-basic.json" https://git.io/v7QVP ` | **Terminix dark**![terminix-dark.json](images/terminix-dark.png) ` wget  -qO $HOME"/.config/tilix/schemes/terminix-dark.json" https://git.io/v7QaK ` 
+**Terminix dark**![terminix-dark.json](images/terminix-dark.png) ` wget  -qO $HOME"/.config/tilix/schemes/terminix-dark.json" https://git.io/v7QaK ` | **Thayer bright**![thayer-bright.json](images/thayer-bright.png) ` wget  -qO $HOME"/.config/tilix/schemes/thayer-bright.json" https://git.io/v7QVZ ` 
+**Tommorow night**![tommorow-night.json](images/tommorow-night.png) ` wget  -qO $HOME"/.config/tilix/schemes/tommorow-night.json" https://git.io/v7QVG ` | **Tomorrow night blue**![tomorrow-night-blue.json](images/tomorrow-night-blue.png) ` wget  -qO $HOME"/.config/tilix/schemes/tomorrow-night-blue.json" https://git.io/v7QVr ` 
+**Tomorrow night bright**![tomorrow-night-bright.json](images/tomorrow-night-bright.png) ` wget  -qO $HOME"/.config/tilix/schemes/tomorrow-night-bright.json" https://git.io/v7QVq ` | **Tomorrow night eighties**![tomorrow-night-eighties.json](images/tomorrow-night-eighties.png) ` wget  -qO $HOME"/.config/tilix/schemes/tomorrow-night-eighties.json" https://git.io/v7QV6 ` 
+**Tomorrow**![tomorrow.json](images/tomorrow.png) ` wget  -qO $HOME"/.config/tilix/schemes/tomorrow.json" https://git.io/v7QVy ` | **Toy chest**![toy-chest.json](images/toy-chest.png) ` wget  -qO $HOME"/.config/tilix/schemes/toy-chest.json" https://git.io/v7QVC ` 
+**Treehouse**![treehouse.json](images/treehouse.png) ` wget  -qO $HOME"/.config/tilix/schemes/treehouse.json" https://git.io/v7QVQ ` | **Twilight**![twilight.json](images/twilight.png) ` wget  -qO $HOME"/.config/tilix/schemes/twilight.json" https://git.io/v7QVH ` 
+**Urple**![urple.json](images/urple.png) ` wget  -qO $HOME"/.config/tilix/schemes/urple.json" https://git.io/v7QV9 ` | **Vaughn**![vaughn.json](images/vaughn.png) ` wget  -qO $HOME"/.config/tilix/schemes/vaughn.json" https://git.io/v7QVi ` 
+**Vibrant ink**![vibrant-ink.json](images/vibrant-ink.png) ` wget  -qO $HOME"/.config/tilix/schemes/vibrant-ink.json" https://git.io/v7QVX ` | **Warm neon**![warm-neon.json](images/warm-neon.png) ` wget  -qO $HOME"/.config/tilix/schemes/warm-neon.json" https://git.io/v7QVc ` 
+**Wez**![wez.json](images/wez.png) ` wget  -qO $HOME"/.config/tilix/schemes/wez.json" https://git.io/v7QVM ` | **Wild cherry**![wild-cherry.json](images/wild-cherry.png) ` wget  -qO $HOME"/.config/tilix/schemes/wild-cherry.json" https://git.io/v7QVS ` 
+**Wombat**![wombat.json](images/wombat.png) ` wget  -qO $HOME"/.config/tilix/schemes/wombat.json" https://git.io/v7QVR ` | **Wryan**![wryan.json](images/wryan.png) ` wget  -qO $HOME"/.config/tilix/schemes/wryan.json" https://git.io/v7QVo ` 
+**Zenburn**![zenburn.json](images/zenburn.png) ` wget  -qO $HOME"/.config/tilix/schemes/zenburn.json" https://git.io/v7QVd ` | 
 
 [⬆ Back to top](#themes)
