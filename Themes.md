@@ -1,7 +1,7 @@
 # Themes
 
 
-To download the theme just copy and paste the command below the screenshot in your CLI.
+To download the theme just copy and paste the command below the screenshot in your CLI (Tilix Terminal).
 
 
 **3024 day**![3024-day.json](images/3024-day.png) ` wget  -qO $HOME"/.config/tilix/schemes/3024-day.json" https://git.io/v7QVI ` | **3024 night**![3024-night.json](images/3024-night.png) ` wget  -qO $HOME"/.config/tilix/schemes/3024-night.json" https://git.io/v7QVY ` 

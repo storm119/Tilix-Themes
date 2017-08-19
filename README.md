@@ -13,6 +13,10 @@ Everyone have a different taste, not only we want app that can run and meet our 
 ```
 ~/.config/tilix/schemes/
 ```
+* OR tap the ["Preview available themes"](Themes.md) and pick the one you like and copy/paste the commands below the SS to Tilix Terminal...ie (for Terminix Dark)
+```
+wget -qO $HOME"/.config/tilix/schemes/terminix-dark.json" https://git.io/v7QaK
+```
 * And finally apply via Tilix
 ```
 Preferences/Default/Color/Color scheme
