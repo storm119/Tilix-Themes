@@ -8,7 +8,7 @@ Everyone have a different taste, not only we want app that can run and meet our 
 
 
 ### How to use:
-* You need to install from [Tilix](https://github.com/gnunn1/tilix) or [Tilix Website](https://gnunn1.github.io/tilix-web/) to use my theme and the ported themes or from one that provided by the other contributors. Other terminal wont work...
+* You need to install Tilix from [Tilix Git](https://github.com/gnunn1/tilix) or [Tilix Website](https://gnunn1.github.io/tilix-web/) to use my theme and the ported themes or from one that provided by the other contributors. Other terminal wont work...
 * Pick the one you like and Copy the theme *.json to...
 ```
 ~/.config/tilix/schemes/
@@ -31,8 +31,11 @@ Preferences/Default/Color/Color scheme
 * You can also ["Preview available themes"](Themes.md) before installing...(huge thanks to [EliverLara](https://github.com/EliverLara) for the screenies) 
 
 
+### Video:
+* Watch themes in action [135 Linux Terminal Themes in 135 Seconds! | on Tilix! ](https://www.youtube.com/watch?v=GKyHf7byvlY) video courtesy of baby WOGUE...thanks
+
 
 # Credits:
 * To All the original theme author(s)
 * [Gerald Nunn aka gnunn1](https://github.com/gnunn1) the original author of [Tilix](https://github.com/gnunn1/tilix) for sharing his awesome work with us....
-* To all the contributors ([justbur1](https://github.com/justbur) [casonadams](https://github.com/casonadams) [shanff](https://github.com/shanff) [PanagiotisS](https://github.com/shanff) [FreddieOliveira](https://github.com/FreddieOliveira)) for adding moar themes or update some stuff. AND special thanks to [EliverLara](https://github.com/EliverLara) for the screenies...you guys are awesome!!!
+* To all the contributors ([justbur1](https://github.com/justbur) [casonadams](https://github.com/casonadams) [shanff](https://github.com/shanff) [PanagiotisS](https://github.com/shanff) [FreddieOliveira](https://github.com/FreddieOliveira)) for adding moar themes or update some stuff. AND special thanks to [EliverLara](https://github.com/EliverLara) for the screenies and codes for downloading themes via terminal and baby WOGUE for the awesome video...you guys are awesome!!!
