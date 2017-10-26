@@ -69,6 +69,6 @@ To download the theme just copy and paste the command below the screenshot in yo
 **Vibrant ink**![vibrant-ink.json](images/vibrant-ink.png) ` wget  -qO $HOME"/.config/tilix/schemes/vibrant-ink.json" https://git.io/v7QVX ` | **Warm neon**![warm-neon.json](images/warm-neon.png) ` wget  -qO $HOME"/.config/tilix/schemes/warm-neon.json" https://git.io/v7QVc ` 
 **Wez**![wez.json](images/wez.png) ` wget  -qO $HOME"/.config/tilix/schemes/wez.json" https://git.io/v7QVM ` | **Wild cherry**![wild-cherry.json](images/wild-cherry.png) ` wget  -qO $HOME"/.config/tilix/schemes/wild-cherry.json" https://git.io/v7QVS ` 
 **Wombat**![wombat.json](images/wombat.png) ` wget  -qO $HOME"/.config/tilix/schemes/wombat.json" https://git.io/v7QVR ` | **Wryan**![wryan.json](images/wryan.png) ` wget  -qO $HOME"/.config/tilix/schemes/wryan.json" https://git.io/v7QVo ` 
-**Zenburn**![zenburn.json](images/zenburn.png) ` wget  -qO $HOME"/.config/tilix/schemes/zenburn.json" https://git.io/v7QVd ` | 
+**Zenburn**![zenburn.json](images/zenburn.png) ` wget  -qO $HOME"/.config/tilix/schemes/zenburn.json" https://git.io/v7QVd ` | **Flatty**![flatty.json](images/flatty.png) ` wget  -qO $HOME"/.config/tilix/schemes/flatty.json" https://git.io/vFJit `
 
 [⬆ Back to top](#themes)
