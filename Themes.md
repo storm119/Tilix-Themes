@@ -72,3 +72,4 @@ To download the theme just copy and paste the command below the screenshot in yo
  **Zenburn**![zenburn.json](images/zenburn.png) ` wget  -qO $HOME"/.config/tilix/schemes/zenburn.json" https://git.io/v7QVd `
 
 [⬆ Back to top](#themes)
+
