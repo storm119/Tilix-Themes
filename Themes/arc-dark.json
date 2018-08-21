@@ -1,0 +1,25 @@
+{
+  "name": "Arc Dark",
+  "comment": "https://github.com/horst3180/arc-theme ported by @jcf",
+  "use-theme-colors": false,
+  "foreground-color": "#cccccc",
+  "background-color": "#29303a",
+  "palette": [
+    "#2E3436",
+    "#DC322F",
+    "#27ae60",
+    "#f39c12",
+    "#268BD2",
+    "#9933CC",
+    "#33CC99",
+    "#EEE8D5",
+    "#555753",
+    "#E84F4F",
+    "#2ecc71",
+    "#f1c40f",
+    "#6699FF",
+    "#CC66FF",
+    "#93A1A1",
+    "#FDF6E3"
+  ]
+}
