@@ -144,8 +144,7 @@ declare -A THEMES=(
 )
 
 # Some ascii to brighten up the script :)
-printf "\n"
-printf "%b" "$C_LBLUE████████╗██╗██╗     ██╗██╗  ██╗\n"
+printf "%b" "\n$C_LBLUE████████╗██╗██╗     ██╗██╗  ██╗\n"
 printf "╚══██╔══╝██║██║     ██║╚██╗██╔╝   _   _     \n"
 printf "   ██║   ██║██║     ██║ ╚███╔╝   | |_| |__   ___ _ __ ___   ___  ___ \n" 
 printf "   ██║   ██║██║     ██║ ██╔██╗   | __| '_ \ / _ \ '_ \` _ \ / _ \/ __|\n"
@@ -161,11 +160,9 @@ then
     [[ "$0" = "${BASH_SOURCE[*]}" ]] && exit 1 || return 1
 fi
 
-printf "\n\n\n" 
-
 # Create the themes folder if doesn't exist
 mkdir -p "$HOME/.config/tilix/schemes"
-printf "Created '%s/.config/tilix/schemes' folder\n\n\n" "$HOME"
+printf "\n\n\nCreated '%s/.config/tilix/schemes' folder\n\n\n" "$HOME"
 
 # Downloads json files one by one in previously created folder
 count=0
@@ -178,7 +175,5 @@ do
   	printf "%b" "$C_LGREEN✔$NC\n"
 done
 
-printf "\n"
-
-printf "Finished downloading all %s themes.\n" "$count"
+printf "\nFinished downloading all %s themes.\n" "$count"
 printf "Enjoy!\n"
