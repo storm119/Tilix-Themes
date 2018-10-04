@@ -23,6 +23,24 @@ Preferences/Default/Color/Color scheme
 ```
 
 
+### Install All:
+* If you need to install all the themes at once, you can download and run the following script:
+```
+link-to-the-script
+```
+* or simply run these commands:
+```
+wget -O /home/$USER https://link-to-the-script \
+&& chmod +x /home/$USER/tilix-themes-install.sh \
+&& /home/$USER/tilix-themes-install.sh
+```
+
+* do not forget to remove the script after completion:
+```
+rm  /home/$USER/tilix-themes-install.sh
+```
+
+
 ### Uninstall:
 * Just delete the theme *.json...you're good to go!
 
