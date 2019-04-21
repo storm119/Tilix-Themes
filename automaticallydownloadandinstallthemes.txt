@@ -1,0 +1,26 @@
+#Automatically download and install all tilix-themes
+
+#######visit the url https://github.com/storm119/Tilix-Themes/blob/master/Themes.md and run the following javascript in browser console########
+
+var code =document.getElementsByTagName("code");
+var content="";
+for(var i=0;i<code.length;i++)
+{
+content+=code[i].innerText+'\n';
+
+}
+
+console.log(content);
+
+############save the output to themes.txt in the current directory###########
+
+###########Run the python file in terminal ##############
+
+$python3 themes.py
+
+############################################
+
+#This will save the themes in ~/.config/tilix/schemes
+
+
+
