@@ -1,5 +1,9 @@
 #Automatically download and install all tilix-themes
 
+#create folder tilix in ~/.config if not exists and schemes 
+#in tilix ,final structure should be ~/.config/tilix/schemes
+
+
 #######visit the url https://github.com/storm119/Tilix-Themes/blob/master/Themes.md and run the following javascript in browser console########
 
 var code =document.getElementsByTagName("code");
